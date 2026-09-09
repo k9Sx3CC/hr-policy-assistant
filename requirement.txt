@@ -1,6 +1,5 @@
 streamlit
 pymupdf
 sentence-transformers
-faiss-cpu
-numpy
+faiss-cpu==1.15.0
 groq
