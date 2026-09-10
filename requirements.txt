@@ -1,4 +1,4 @@
-streamlit
+streamlitgsk==1.63.0
 pymupdf
 sentence-transformers
 faiss-cpu==1.15.0
